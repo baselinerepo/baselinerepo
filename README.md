@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m into deep neural nets.
+I’m into deep neural nets.
 
 <!--
 **baselinerepo/baselinerepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
