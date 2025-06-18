@@ -1,4 +1,4 @@
-I’m into deep neural nets.
+deep neural nets
 
 <!--
 **baselinerepo/baselinerepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
